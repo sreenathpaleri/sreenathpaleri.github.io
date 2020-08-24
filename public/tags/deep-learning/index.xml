@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Sreenath Paleri</title>
+    <link>/tags/deep-learning/</link>
+      <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>CHEESEHEAD</title>
+      <link>/research/cheesehead/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/cheesehead/</guid>
+      <description>&lt;p&gt;The earth’s surface is heterogeneous at multiple scales owing to spatial variability in various properties. The atmospheric responses to these heterogeneities through fluxes of energy, water,carbon and other scalars are scale-dependent and strongly non-linear. Measuring and quantifying these continuous multi-scale exchange processes call for state-of-the-art instrumentation and analyses.
+Single point measurement techniques, like the conventional tower-based eddy-covariance measurements suffer from spectral losses in lower frequencies.They inherently can’t resolve these contributions using common averaging times. This calls for the application of spatially resolving measurement techniques, such as airborne measurements or a tower network and high resolution modeling efforts such as Large Eddy simulations, that can explicitly simulate all the pertinent scales of motion at all times.
+This is what we tried to do with the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors. Project page: &lt;a href=&#34;https://bit.ly/3aOudw5&#34; target=&#34;_blank&#34;&gt;https://bit.ly/3aOudw5&lt;/a&gt; . For the field experiment aims to intensively sample and scale the interactions between land surface and the boundary layer across a 10 x 10 km, heterogeneous landscape in northern Wisconsin. Aimed to sample spatial heterogeneity and the seasonal shift in the landscape from a homogeneous LE dominated landscape in late summer to a more patchy, H dominated landscape in early autumn.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Sreenath Paleri</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Researches</title>
+      <link>/research/</link>
+    </image>
+    
+    <item>
+      <title>CHEESEHEAD</title>
+      <link>/research/cheesehead/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/cheesehead/</guid>
+      <description>&lt;p&gt;The earth’s surface is heterogeneous at multiple scales owing to spatial variability in various properties. The atmospheric responses to these heterogeneities through fluxes of energy, water,carbon and other scalars are scale-dependent and strongly non-linear. Measuring and quantifying these continuous multi-scale exchange processes call for state-of-the-art instrumentation and analyses.&lt;/p&gt;
+
+&lt;p&gt;Single point measurement techniques, like the conventional tower-based eddy-covariance measurements suffer from spectral losses in lower frequencies.They inherently can’t resolve these contributions using common averaging times. This calls for the application of spatially resolving measurement techniques, such as airborne measurements or a tower network and high resolution modeling efforts such as Large Eddy simulations, that can explicitly simulate all the pertinent scales of motion at all times.&lt;/p&gt;
+
+&lt;p&gt;This is what we tried to do with the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors.The field experiment aims to intensively sample and scale the interactions between land surface and the boundary layer across a 10 x 10 km, heterogeneous landscape in northern Wisconsin. Aimed to sample spatial heterogeneity and the seasonal shift in the landscape from a homogeneous LE dominated landscape in late summer to a more patchy, H dominated landscape in early autumn.&lt;/p&gt;
+
+&lt;p&gt;Observational work: working on space-scale mapping of surface fluxes using airborne measurements. Wavelet analysis of flux measurements to diagnose and quantify scale transport. Flux footprint analysis to investigate contributions from surface features over the seasons.  from the experiment:
+&lt;img src=&#34;Space.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Modeling work:
+Pre IOP work: Initial scenario analysis for field experiment design.
+Parallelized Atmospheric LES Model (PALM), forced by surface flux maps from Metzger et al. 2013 (reanalysis calculated from tall tower measurements using ERF)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;forcings2.gif&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>INCOMPASS</title>
+      <link>/research/incompass/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/incompass/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
