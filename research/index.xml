@@ -13,15 +13,23 @@
     </image>
     
     <item>
-      <title>CHEESEHEAD</title>
+      <title>INCOMPASS</title>
+      <link>/research/incompass/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/incompass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space - scale resolved surface-atmospheric fluxes</title>
       <link>/research/cheesehead/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/research/cheesehead/</guid>
-      <description>&lt;p&gt;The earth’s surface is heterogeneous at multiple scales owing to spatial variability in various properties. The atmospheric responses to these heterogeneities through fluxes of energy, water,carbon and other scalars are scale-dependent and strongly non-linear. Measuring and quantifying these continuous multi-scale exchange processes call for state-of-the-art instrumentation and analyses.&lt;/p&gt;
+      <description>&lt;p&gt;The Earth’s surface is heterogeneous at multiple scales owing to spatial variability in various properties. The atmospheric responses to these heterogeneities through fluxes of energy, water, carbon and other scalars are scale-dependent and non-linear. Although these exchanges can be measured using the eddy covariance technique, widely used tower-based measurement approaches suffer from spectral losses in lower frequencies when using typical averaging times.&lt;/p&gt;
 
-&lt;p&gt;Single point measurement techniques, like the conventional tower-based eddy-covariance measurements suffer from spectral losses in lower frequencies.They inherently can’t resolve these contributions using common averaging times. This calls for the application of spatially resolving measurement techniques, such as airborne measurements or a tower network and high resolution modeling efforts such as Large Eddy simulations, that can explicitly simulate all the pertinent scales of motion at all times.&lt;/p&gt;
+&lt;p&gt;However, spatially resolved measurements such as airborne eddy covariance measurements can detect such larger scale &lt;code&gt;(meso-$\beta$, meso-$\gamma$)&lt;/code&gt; transport. To evaluate the prevalence and magnitude of these flux contributions  we applied wavelet analysis to airborne flux measurements over a heterogeneous mid-latitude forested landscape, interspersed with open water bodies and wetlands. The measurements were made during the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD19) intensive field campaign.&lt;/p&gt;
 
-&lt;p&gt;This is what we tried to do with the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors.The field experiment aims to intensively sample and scale the interactions between land surface and the boundary layer across a 10 x 10 km, heterogeneous landscape in northern Wisconsin. Aimed to sample spatial heterogeneity and the seasonal shift in the landscape from a homogeneous LE dominated landscape in late summer to a more patchy, H dominated landscape in early autumn.&lt;/p&gt;
+&lt;p&gt;We ask, how do spatial scales of surface-atmosphere fluxes vary over heterogeneous surfaces across the day and across seasons?  Measured fluxes were separated into smaller-scale turbulent and larger-scale mesoscale contributions. We found significant mesoscale contributions to sensible and latent heat fluxes through summer to autumn which wouldn’t be resolved in single point tower measurements through traditional time-domain half-hourly Reynolds decomposition. We report scale-resolved flux transitions associated with seasonal and diurnal changes of the heterogeneous study domain. This study adds to our understanding of surface-atmospheric interactions over unstructured heterogeneities and can help inform multi-scale model-data integration of weather and climate models at a sub-grid scale.&lt;/p&gt;
 
 &lt;p&gt;Observational work: working on space-scale mapping of surface fluxes using airborne measurements. Wavelet analysis of flux measurements to diagnose and quantify scale transport. Flux footprint analysis to investigate contributions from surface features over the seasons.  from the experiment:
 &lt;img src=&#34;Space.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
@@ -32,14 +40,6 @@ Parallelized Atmospheric LES Model (PALM), forced by surface flux maps from Metz
 
 &lt;p&gt;&lt;img src=&#34;forcings2.gif&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>INCOMPASS</title>
-      <link>/research/incompass/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/research/incompass/</guid>
-      <description></description>
     </item>
     
   </channel>
