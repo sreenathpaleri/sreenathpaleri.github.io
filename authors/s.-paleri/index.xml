@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**S. Paleri** | Sreenath Paleri</title>
+    <link>/authors/s.-paleri/</link>
+      <atom:link href="/authors/s.-paleri/index.xml" rel="self" type="application/rss+xml" />
+    <description>**S. Paleri**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>**S. Paleri**</title>
+      <link>/authors/s.-paleri/</link>
+    </image>
+    
+    <item>
+      <title>Spatial and temporal variability in energy and water vapour fluxes observed at seven sites on the Indian subcontinent during 2017</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

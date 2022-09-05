@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monsoon | Sreenath Paleri</title>
+    <link>/tags/monsoon/</link>
+      <atom:link href="/tags/monsoon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monsoon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Monsoon</title>
+      <link>/tags/monsoon/</link>
+    </image>
+    
+    <item>
+      <title>Spatial and temporal variability in energy and water vapour fluxes observed at seven sites on the Indian subcontinent during 2017</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and temporal variability of surface heat fluxes across the Indian subcontinent.</title>
+      <link>/research/incompass/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/research/incompass/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.met.rdg.ac.uk/~sws05agt/incompass_limitless/home/&#34; target=&#34;_blank&#34;&gt;INCOMPASS&lt;/a&gt; was an intensive field experiment conducted in 2016 across the Indian subcontinent. The campaign was jointly funded by the Natural Environment Research Council (NERC) in the United Kingdom and Ministry of Earth Sciences (MoES) in India under the Drivers of Variability in the South Asian Monsoon programme. The experiment had an airborne and ground based observational campaigns, chiefly consisting of research flights on the Facility for Airborne Atmospheric Measurement (FAAM) Atmospheric Research Aircraft and an array of surface-flux towers (&lt;a href=&#34;https://doi.org/10.1002/qj.3633&#34; target=&#34;_blank&#34;&gt;Turner, AG, Bhat, GS, Martin, GM, et al. 2017&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;The surface flux tower network was designed to collect high-frequency and high quality surface flux data that could inform the joint Indo-UK land-atmosphere interactions modeling efforts.&lt;/p&gt;
+
+&lt;p&gt;Working as a Project Scientist with &lt;a href=&#34;https://caos.iisc.ac.in/faculty/bhat.htm&#34; target=&#34;_blank&#34;&gt;Prof. G. S. Bhat&lt;/a&gt; at the &lt;a href=&#34;https://caos.iisc.ac.in/&#34; target=&#34;_blank&#34;&gt;Centre for Atmospheric and Oceanic Science, Indian Institute of Science&lt;/a&gt; I was responsible for the installation and maintanence of the relevant instruments at four of the field sites (Jaisalmer, Ahmadabad, Patna, Bangalore) spanning different climatic conditions.&lt;/p&gt;
+
+&lt;p&gt;Instruments and software handled :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;CSAT-3 Sonic Anemometers and EC-150 Open path CO2, H20 gas analyzer from Campbell Scientifc to measure insitu surface fluxes&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programming the CR-1000 dataloggers using CRBasic&lt;/li&gt;
+&lt;li&gt;Flux calculations were performed using Eddy Pro. as detailed in &lt;a href=&#34;https://doi.org/10.1002/qj.3688&#34; target=&#34;_blank&#34;&gt;Bhat, GS, Morrison, R, Taylor, CM, et al. 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Thies Clima laser precipitation monitors to measure precipitation intensity and droplet size spectrum.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kipp and Zonen net radiometers&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

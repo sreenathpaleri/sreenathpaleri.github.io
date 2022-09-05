@@ -5,12 +5,148 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>**S. Paleri**</title>
+      <link>/authors/s.-paleri/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-paleri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Patidar</title>
+      <link>/authors/a.-patidar/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-patidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Sattar</title>
+      <link>/authors/a.-sattar/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-sattar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Sisodiya</title>
+      <link>/authors/a.-sisodiya/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-sisodiya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. K. Bhattacharya</title>
+      <link>/authors/b.-k.-bhattacharya/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-k.-bhattacharya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. M. Tayllor</title>
+      <link>/authors/c.-m.-tayllor/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-m.-tayllor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Desai</title>
+      <link>/authors/d.-desai/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-desai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Kacha</title>
+      <link>/authors/d.-kacha/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-kacha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. S. Bhat</title>
+      <link>/authors/g.-s.-bhat/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-s.-bhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. G. Evans</title>
+      <link>/authors/j.-g.-evans/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-g.-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. V. M. Krishnan</title>
+      <link>/authors/k.-v.-m.-krishnan/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-v.-m.-krishnan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Sekhar</title>
+      <link>/authors/m.-sekhar/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-sekhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Morrison</title>
+      <link>/authors/r.-morrison/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-morrison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Nigam</title>
+      <link>/authors/r.-nigam/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-nigam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. N. Tripathi</title>
+      <link>/authors/s.-n.-tripathi/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-n.-tripathi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Pattnaik</title>
+      <link>/authors/s.-pattnaik/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-pattnaik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. S. Angadi</title>
+      <link>/authors/s.-s.-angadi/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-s.-angadi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -24,7 +160,7 @@
     <item>
       <title>Robert Ford</title>
       <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
