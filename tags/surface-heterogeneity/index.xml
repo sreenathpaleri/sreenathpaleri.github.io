@@ -22,9 +22,9 @@
     
     <item>
       <title>Space-scale resolved surface-atmospheric fluxes</title>
-      <link>/research/cheesehead/</link>
+      <link>/research/cheesehead-uwka/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/research/cheesehead/</guid>
+      <guid>/research/cheesehead-uwka/</guid>
       <description>&lt;p&gt;The Earth’s surface is heterogeneous at multiple scales owing to spatial variability in various properties. The atmospheric responses to these heterogeneities through fluxes of energy, water, carbon and other scalars are scale-dependent and non-linear. Although these exchanges can be measured using the eddy covariance technique, widely used tower-based measurement approaches suffer from spectral losses in lower frequencies when using typical averaging times.&lt;/p&gt;
 
 &lt;p&gt;However, spatially resolved measurements such as airborne eddy covariance measurements can detect such larger scale &lt;code&gt;(meso-beta, meso-gamma)&lt;/code&gt; transport. To evaluate the prevalence and magnitude of these flux contributions  we applied wavelet analysis to airborne flux measurements over a heterogeneous mid-latitude forested landscape, interspersed with open water bodies and wetlands. The airborne measurements were made during the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD19) intensive field campaign (&lt;a href=&#34;https://doi.org/10.1175/BAMS-D-19-0346.1&#34; target=&#34;_blank&#34;&gt;Butterworth et al. 2021&lt;/a&gt; ).&lt;/p&gt;
@@ -37,12 +37,12 @@ I was responsible for setting up the simulations that provided virtual flight da
 &lt;p&gt;The experimental study design aimed to sample the landscape transition from late summer to early fall and the associated ABL responses. The CHEESEHEAD19 airborne dataset presents a unique opportunity to analyse long periods of airborne EC over long legs (30 km) in a heterogeneous region over multiple times a year with differing patterns of surface sensible and latent heat fluxes.&lt;/p&gt;
 
 &lt;p&gt;In this study, we ask, how do spatial scales of surface-atmosphere fluxes vary over heterogeneous surfaces across the day and across seasons?  To get a quantitative estimate, the measured fluxes were separated into smaller-scale turbulent and larger-scale mesoscale contributions. We found significant mesoscale contributions to sensible and latent heat fluxes through summer to autumn which wouldn’t be resolved in single point tower measurements through traditional time-domain half-hourly Reynolds decomposition.
-&lt;img src=&#34;seasonal_fluxes.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;seasonal_fluxes.JPG&#34; alt=&#34;seasonal_fluxes&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To investigate how the measured mesoscale contributions vary over the course of a research flight and spatially over the domain, the measured fluxes are back–projected to their surface source as gridded two-dimensional data following the flux topography method of Mauder, Desjardins, and MacPherson (2008). Flux topographies are the footprint-weighted flux contributions measured across the domain from the airborne data (Amiro, 1998).
-&lt;img src=&#34;LE_flux_topo.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;LE_flux_topo.JPG&#34; alt=&#34;LE_flux_topo&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A manuscript detailing the findings is currently under review at JGR-Atmospheres where we also report scale-resolved flux transitions associated with seasonal and diurnal changes of the heterogeneous study domain and how they are affected by ABL stability.&lt;/p&gt;
+&lt;p&gt;A manuscript detailing the findings is currently under review at JGR-Atmospheres where we also report scale-resolved flux transitions associated with seasonal and diurnal changes of the heterogeneous study domain and how they are affected by ABL stability. Have a look at the pre-print &lt;a href=&#34;https://doi.org/10.1002/essoar.10511424.1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     

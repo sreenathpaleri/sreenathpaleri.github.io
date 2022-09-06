@@ -106,6 +106,14 @@
     </item>
     
     <item>
+      <title>Space-scale resolved surface-atmospheric fluxes across a heterogeneous, mid-latitude forested landscape</title>
+      <link>/publication/paleri-2022/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/paleri-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spatial Patterns and Scales</title>
       <link>/publication/book-chapter/</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
@@ -130,6 +138,39 @@
     </item>
     
     <item>
+      <title>Large Eddy Simulations of surface heterogeneity induced secondary circulations</title>
+      <link>/research/cheesehead-palm/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/research/cheesehead-palm/</guid>
+      <description>&lt;p&gt;Numerous studies have hinted at the key role of land surface heterogeneities for developing
+secondary circulations in the atmospheric boundary layer. Observational studies and large
+eddy simulation (LES) models have been used to understand the role of these circulations in
+boundary-layer development, cloud processes, and documented biases in measurements such
+as eddy-covariance energy fluxes. However, these studies have been limited in their ability to
+capture these events and robustly test hypotheses.&lt;/p&gt;
+
+&lt;p&gt;I have been working with &lt;a href=&#34;https://www.researchgate.net/profile/Luise-Wanner&#34; target=&#34;_blank&#34;&gt;Luise Wanner&lt;/a&gt; at KIT and &lt;a href=&#34;https://www.researchgate.net/profile/Matthias-Suehring&#34; target=&#34;_blank&#34;&gt;Dr. Matthias Suhring&lt;/a&gt; at IMUK Leibniz Universität Hannover to setup realistic simulations of the &lt;a href=&#34;https://flux.aos.wisc.edu/projects/2018/6/19/cheesehead19&#34; target=&#34;_blank&#34;&gt;CHEESEHEAD19&lt;/a&gt; field experiment days. The Parallelized LES Model &lt;a href=&#34;https://palm.muk.uni-hannover.de/trac&#34; target=&#34;_blank&#34;&gt;PALM&lt;/a&gt; (Maronga et al. 2020) is being used for numerical simulations.&lt;/p&gt;
+
+&lt;p&gt;To accurately simulate the physical processes as observed during the the field experiment as realistic as possible, we apply a Land Surface Model (LSM) with coupled soil, radiation and a Plant Canopy Model (PCM) for the domain. The use of the LSM and PCM runs instead of prescribed surface fluxes will enable the investigation of surface atmospheric feed backs such as self-reinforcement of mesoscale circulations over the heterogeneous study domain ([Wanner et al. 2022])(&lt;a href=&#34;https://doi.org/10.1007/s10546-021-00649-7&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1007/s10546-021-00649-7&lt;/a&gt;). This offers a detailed analysis of the physical processes involved and comparisons with observations as well as, direct interaction to the synoptic and radiative forcing.&lt;/p&gt;
+
+&lt;p&gt;The inbuilt LSM implementation is based on the ECMWF-IFS land surface parametrization (H-TESSEL) and its adaptation in the DALES model (Heus et al. 2010). The canopy is modeled as a porous viscous medium that removes momentum from the flow (Shaw &amp;amp; Schumann, 1992; Watanabe, 2004), and acts as source/sink for heat, humidity, or passive scalar.&lt;/p&gt;
+
+&lt;p&gt;We setup simulations for two days in the summer ( Aug. 22 and 23 2019) and two days in the fall(Sep. 24 and 25 2019), with land use classes, soil and vegetation data as measured/observed during the field experiment. Since the modeling domain is forested, the observed tree tops are being resolved using the inbuilt PCM in PALM. The forest canopy is initialized using observed parameters from canopy LiDAR measurements (Andresen et al. 2019) and field observations.&lt;/p&gt;
+
+&lt;p&gt;In this study, we ask whether diagnosing these circulations and quantifying the transport occurring at their corresponding scales can help us observe all the relevant scales of surface atmospheric transport. We use the LES model PALM to simulate diurnal cycles for the chosen four days chosen from late summer to early fall over a large (27x30 km) heterogeneous study domain that was the field site for CHEESEHEAD19. The simulations were initialized using NOAA - HRRR as large-scale forcing data over the study domain. Our preliminary analysis shows a good match between the simulated and radiosonde measured profiles. Sample comparison plots for summer runs below&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;profiles-palm-iop02.JPG&#34; alt=&#34;profiles-palm-iop02&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently I am working on extracting signals of secondary circulations induced due to the surface heterogeneities using time and ensemble averaging following Maronga and Raasch (2013). The dynamical nature of the structures will be  compared between the summer and autumn
+simulations, showing differing atmospheric boundary layer stabilities. The impact of these
+secondary circulations on local turbulent fluxes and simulated surface energy balance will also
+be investigated. I am hoping to present this work at AGU Fall meeting 2022 in Chicago. Let me know if you&amp;rsquo;d like to meet up and talk more !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;w-iop02-30min.JPG&#34; alt=&#34;w-iop02-30min&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Spatial and temporal variability in energy and water vapour fluxes observed at seven sites on the Indian subcontinent during 2017</title>
       <link>/publication/bhat-2017/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
@@ -139,9 +180,9 @@
     
     <item>
       <title>Space-scale resolved surface-atmospheric fluxes</title>
-      <link>/research/cheesehead/</link>
+      <link>/research/cheesehead-uwka/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/research/cheesehead/</guid>
+      <guid>/research/cheesehead-uwka/</guid>
       <description>&lt;p&gt;The Earth’s surface is heterogeneous at multiple scales owing to spatial variability in various properties. The atmospheric responses to these heterogeneities through fluxes of energy, water, carbon and other scalars are scale-dependent and non-linear. Although these exchanges can be measured using the eddy covariance technique, widely used tower-based measurement approaches suffer from spectral losses in lower frequencies when using typical averaging times.&lt;/p&gt;
 
 &lt;p&gt;However, spatially resolved measurements such as airborne eddy covariance measurements can detect such larger scale &lt;code&gt;(meso-beta, meso-gamma)&lt;/code&gt; transport. To evaluate the prevalence and magnitude of these flux contributions  we applied wavelet analysis to airborne flux measurements over a heterogeneous mid-latitude forested landscape, interspersed with open water bodies and wetlands. The airborne measurements were made during the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD19) intensive field campaign (&lt;a href=&#34;https://doi.org/10.1175/BAMS-D-19-0346.1&#34; target=&#34;_blank&#34;&gt;Butterworth et al. 2021&lt;/a&gt; ).&lt;/p&gt;
@@ -154,12 +195,12 @@ I was responsible for setting up the simulations that provided virtual flight da
 &lt;p&gt;The experimental study design aimed to sample the landscape transition from late summer to early fall and the associated ABL responses. The CHEESEHEAD19 airborne dataset presents a unique opportunity to analyse long periods of airborne EC over long legs (30 km) in a heterogeneous region over multiple times a year with differing patterns of surface sensible and latent heat fluxes.&lt;/p&gt;
 
 &lt;p&gt;In this study, we ask, how do spatial scales of surface-atmosphere fluxes vary over heterogeneous surfaces across the day and across seasons?  To get a quantitative estimate, the measured fluxes were separated into smaller-scale turbulent and larger-scale mesoscale contributions. We found significant mesoscale contributions to sensible and latent heat fluxes through summer to autumn which wouldn’t be resolved in single point tower measurements through traditional time-domain half-hourly Reynolds decomposition.
-&lt;img src=&#34;seasonal_fluxes.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;seasonal_fluxes.JPG&#34; alt=&#34;seasonal_fluxes&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;To investigate how the measured mesoscale contributions vary over the course of a research flight and spatially over the domain, the measured fluxes are back–projected to their surface source as gridded two-dimensional data following the flux topography method of Mauder, Desjardins, and MacPherson (2008). Flux topographies are the footprint-weighted flux contributions measured across the domain from the airborne data (Amiro, 1998).
-&lt;img src=&#34;LE_flux_topo.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;LE_flux_topo.JPG&#34; alt=&#34;LE_flux_topo&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A manuscript detailing the findings is currently under review at JGR-Atmospheres where we also report scale-resolved flux transitions associated with seasonal and diurnal changes of the heterogeneous study domain and how they are affected by ABL stability.&lt;/p&gt;
+&lt;p&gt;A manuscript detailing the findings is currently under review at JGR-Atmospheres where we also report scale-resolved flux transitions associated with seasonal and diurnal changes of the heterogeneous study domain and how they are affected by ABL stability. Have a look at the pre-print &lt;a href=&#34;https://doi.org/10.1002/essoar.10511424.1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
@@ -371,21 +412,6 @@ gantt
 &lt;/aside&gt;
 
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

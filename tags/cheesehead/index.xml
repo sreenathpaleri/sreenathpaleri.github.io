@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CHEESEHEAD | Sreenath Paleri</title>
+    <link>/tags/cheesehead/</link>
+      <atom:link href="/tags/cheesehead/index.xml" rel="self" type="application/rss+xml" />
+    <description>CHEESEHEAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>CHEESEHEAD</title>
+      <link>/tags/cheesehead/</link>
+    </image>
+    
+    <item>
+      <title>Space-scale resolved surface-atmospheric fluxes across a heterogeneous, mid-latitude forested landscape</title>
+      <link>/publication/paleri-2022/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/paleri-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

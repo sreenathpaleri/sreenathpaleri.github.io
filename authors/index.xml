@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Authors</title>
@@ -13,18 +13,25 @@
     </image>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Sreenath is using high resolution airborne observations and realistic large eddy simulations to study the interactions between land surface heterogeneities and secondary circulations in the atmospheric boundary layer.&lt;/p&gt;
-</description>
+      <title>**Sreenath Paleri**</title>
+      <link>/authors/sreenath-paleri/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/sreenath-paleri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrei Serafimovich</title>
+      <link>/authors/andrei-serafimovich/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/andrei-serafimovich/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Ankur R Desai</title>
       <link>/authors/ankur-r-desai/</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/authors/ankur-r-desai/</guid>
       <description></description>
     </item>
@@ -32,17 +39,55 @@
     <item>
       <title>Brian Butterworth</title>
       <link>/authors/brian-butterworth/</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/authors/brian-butterworth/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>**Sreenath Paleri**</title>
-      <link>/authors/sreenath-paleri/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/sreenath-paleri/</guid>
+      <title>David Durden</title>
+      <link>/authors/david-durden/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/david-durden/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Katrin Kohnert</title>
+      <link>/authors/katrin-kohnert/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/katrin-kohnert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Mauder</title>
+      <link>/authors/matthias-mauder/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/matthias-mauder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Metzger</title>
+      <link>/authors/stefan-metzger/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/stefan-metzger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Hello visitor! I am Sreenath Paleri, a PhD candidate in Prof. Ankur Desai&amp;rsquo;s &lt;a href=&#34;https://flux.aos.wisc.edu/&#34; target=&#34;_blank&#34;&gt;Ecometeorology Lab&lt;/a&gt;, &lt;a href=&#34;https://aos.wisc.edu/&#34; target=&#34;_blank&#34;&gt;Department of Atmospheric and Oceanic Sciences&lt;/a&gt;, University of Wisconsin - Madison. I am interested in measuring and modeling the atmospheric boundary layer to better understand surface-atmospheric exchanges over heterogeneous surfaces.&lt;/p&gt;
+
+&lt;p&gt;For my doctoral thesis I am using field measurements collected as part of the &lt;a href=&#34;https://flux.aos.wisc.edu/projects/2018/6/19/cheesehead19&#34; target=&#34;_blank&#34;&gt;CHEESEHEAD19&lt;/a&gt; field experiment and setting up large eddy simulations of the field experiment days to study the role of low frequency, secondary circulations in surface-atmospheric transport.
+Please feel free to have a look at my current and past work and let me know if you have any questions or would like to discuss any of the ideas further!&lt;/p&gt;
+
+&lt;p&gt;You can reach me at &lt;strong&gt;paleri@wisc.edu&lt;/strong&gt; or send me direct message on any of my linked socials.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,14 +103,6 @@
       <link>/authors/christopher-florian/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/authors/christopher-florian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Durden</title>
-      <link>/authors/david-durden/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/david-durden/</guid>
       <description></description>
     </item>
     
@@ -94,26 +131,10 @@
     </item>
     
     <item>
-      <title>Matthias Mauder</title>
-      <link>/authors/matthias-mauder/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/matthias-mauder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Matthias Suehring</title>
       <link>/authors/matthias-suehring/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/authors/matthias-suehring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Metzger</title>
-      <link>/authors/stefan-metzger/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/stefan-metzger/</guid>
       <description></description>
     </item>
     
