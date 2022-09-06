@@ -106,10 +106,34 @@
     </item>
     
     <item>
+      <title>Spatial Patterns and Scales</title>
+      <link>/publication/book-chapter/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel approach to observing system simulation experiments improves information gain of surface–atmosphere field measurements</title>
+      <link>/publication/metzger-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/metzger-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting Land–Atmosphere Interactions to Surface Heterogeneity in CHEESEHEAD19</title>
+      <link>/publication/butterworth-2021/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/butterworth-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spatial and temporal variability in energy and water vapour fluxes observed at seven sites on the Indian subcontinent during 2017</title>
-      <link>/publication/journal-article/</link>
+      <link>/publication/bhat-2017/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>/publication/bhat-2017/</guid>
       <description></description>
     </item>
     
@@ -826,27 +850,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

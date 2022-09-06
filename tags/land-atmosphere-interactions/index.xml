@@ -5,7 +5,7 @@
     <link>/tags/land-atmosphere-interactions/</link>
       <atom:link href="/tags/land-atmosphere-interactions/index.xml" rel="self" type="application/rss+xml" />
     <description>Land-Atmosphere interactions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Land-Atmosphere interactions</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Connecting Land–Atmosphere Interactions to Surface Heterogeneity in CHEESEHEAD19</title>
+      <link>/publication/butterworth-2021/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/butterworth-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spatial and temporal variability in energy and water vapour fluxes observed at seven sites on the Indian subcontinent during 2017</title>
-      <link>/publication/journal-article/</link>
+      <link>/publication/bhat-2017/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>/publication/bhat-2017/</guid>
       <description></description>
     </item>
     

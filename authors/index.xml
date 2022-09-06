@@ -5,12 +5,133 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Sreenath is using high resolution airborne observations and realistic large eddy simulations to study the interactions between land surface heterogeneities and secondary circulations in the atmospheric boundary layer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ankur R Desai</title>
+      <link>/authors/ankur-r-desai/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/ankur-r-desai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Butterworth</title>
+      <link>/authors/brian-butterworth/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-butterworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Sreenath Paleri**</title>
+      <link>/authors/sreenath-paleri/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sreenath-paleri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian J Butterworth</title>
+      <link>/authors/brian-j-butterworth/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-j-butterworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Florian</title>
+      <link>/authors/christopher-florian/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/christopher-florian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Durden</title>
+      <link>/authors/david-durden/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/david-durden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David M Plummer</title>
+      <link>/authors/david-m-plummer/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/david-m-plummer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ke Xu</title>
+      <link>/authors/ke-xu/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ke-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luise Wanner</title>
+      <link>/authors/luise-wanner/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/luise-wanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Mauder</title>
+      <link>/authors/matthias-mauder/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/matthias-mauder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Suehring</title>
+      <link>/authors/matthias-suehring/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/matthias-suehring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Metzger</title>
+      <link>/authors/stefan-metzger/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/stefan-metzger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian J. Butterworth</title>
+      <link>/authors/brian-j.-butterworth/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-j.-butterworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>et al.</title>
+      <link>/authors/et-al./</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/et-al./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>**S. Paleri**</title>
@@ -145,23 +266,6 @@
       <link>/authors/s.-s.-angadi/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/s.-s.-angadi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Sreenath is using high resolution airborne observations and realistic large eddy simulations to study the interactions between land surface heterogeneities and secondary circulations in the atmospheric boundary layer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     

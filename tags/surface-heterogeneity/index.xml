@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Surface Heterogeneity | Sreenath Paleri</title>
+    <title>Surface heterogeneity | Sreenath Paleri</title>
     <link>/tags/surface-heterogeneity/</link>
       <atom:link href="/tags/surface-heterogeneity/index.xml" rel="self" type="application/rss+xml" />
-    <description>Surface Heterogeneity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <description>Surface heterogeneity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
-      <title>Surface Heterogeneity</title>
+      <title>Surface heterogeneity</title>
       <link>/tags/surface-heterogeneity/</link>
     </image>
+    
+    <item>
+      <title>Connecting Land–Atmosphere Interactions to Surface Heterogeneity in CHEESEHEAD19</title>
+      <link>/publication/butterworth-2021/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/butterworth-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Space-scale resolved surface-atmospheric fluxes</title>

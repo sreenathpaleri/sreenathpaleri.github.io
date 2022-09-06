@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Metzger | Sreenath Paleri</title>
+    <link>/authors/stefan-metzger/</link>
+      <atom:link href="/authors/stefan-metzger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan Metzger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Stefan Metzger</title>
+      <link>/authors/stefan-metzger/</link>
+    </image>
+    
+    <item>
+      <title>Novel approach to observing system simulation experiments improves information gain of surface–atmosphere field measurements</title>
+      <link>/publication/metzger-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/metzger-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

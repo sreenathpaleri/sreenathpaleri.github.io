@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Butterworth | Sreenath Paleri</title>
+    <link>/authors/brian-butterworth/</link>
+      <atom:link href="/authors/brian-butterworth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Butterworth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Brian Butterworth</title>
+      <link>/authors/brian-butterworth/</link>
+    </image>
+    
+    <item>
+      <title>Spatial Patterns and Scales</title>
+      <link>/publication/book-chapter/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
