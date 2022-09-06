@@ -5,32 +5,36 @@
     <link>/research/</link>
       <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/avatar.jpg</url>
       <title>Researches</title>
       <link>/research/</link>
     </image>
     
     <item>
-      <title>Space - scale resolved surface-atmospheric fluxes</title>
+      <title>Space-scale resolved surface-atmospheric fluxes</title>
       <link>/research/cheesehead/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/research/cheesehead/</guid>
       <description>&lt;p&gt;The Earth’s surface is heterogeneous at multiple scales owing to spatial variability in various properties. The atmospheric responses to these heterogeneities through fluxes of energy, water, carbon and other scalars are scale-dependent and non-linear. Although these exchanges can be measured using the eddy covariance technique, widely used tower-based measurement approaches suffer from spectral losses in lower frequencies when using typical averaging times.&lt;/p&gt;
 
-&lt;p&gt;However, spatially resolved measurements such as airborne eddy covariance measurements can detect such larger scale &lt;code&gt;(meso-$\beta$, meso-$\gamma$)&lt;/code&gt; transport. To evaluate the prevalence and magnitude of these flux contributions  we applied wavelet analysis to airborne flux measurements over a heterogeneous mid-latitude forested landscape, interspersed with open water bodies and wetlands. The measurements were made during the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD19) intensive field campaign.&lt;/p&gt;
+&lt;p&gt;However, spatially resolved measurements such as airborne eddy covariance measurements can detect such larger scale &lt;code&gt;(meso-beta, meso-gamma)&lt;/code&gt; transport. To evaluate the prevalence and magnitude of these flux contributions  we applied wavelet analysis to airborne flux measurements over a heterogeneous mid-latitude forested landscape, interspersed with open water bodies and wetlands. The airborne measurements were made during the Chequamegon Heterogeneous Ecosystem Energy-balance Study Enabled by a High-density Extensive Array of Detectors (CHEESEHEAD19) intensive field campaign (&lt;a href=&#34;https://doi.org/10.1175/BAMS-D-19-0346.1&#34; target=&#34;_blank&#34;&gt;Butterworth et al. 2021&lt;/a&gt; ).&lt;/p&gt;
 
-&lt;p&gt;We ask, how do spatial scales of surface-atmosphere fluxes vary over heterogeneous surfaces across the day and across seasons?  Measured fluxes were separated into smaller-scale turbulent and larger-scale mesoscale contributions. We found significant mesoscale contributions to sensible and latent heat fluxes through summer to autumn which wouldn’t be resolved in single point tower measurements through traditional time-domain half-hourly Reynolds decomposition. We report scale-resolved flux transitions associated with seasonal and diurnal changes of the heterogeneous study domain. This study adds to our understanding of surface-atmospheric interactions over unstructured heterogeneities and can help inform multi-scale model-data integration of weather and climate models at a sub-grid scale.&lt;/p&gt;
+&lt;p&gt;The airborne experiment was designed with the help of numerical experiments (Large Eddy Simulations with virtual flight scenarios) to maximise spatial coverage over the domain, ensure adequate sampling of larger scale eddies and ensure crew safety.
+I was responsible for setting up the simulations that provided virtual flight data for the scenario analysis.The Parallelized Atmospheric LES Model (PALM), forced by surface flux maps from Metzger et al. 2013 (reanalysis calculated from tall tower measurements using ERF) was used to simulate typical summer conditions around the field site. &lt;a href=&#34;https://doi.org/10.5194/amt-2021-86&#34; target=&#34;_blank&#34;&gt;Metzger et al. 2021&lt;/a&gt; provides details about the numerical simulations, analysis framework and design strategy used to come up with the final flight patterns for the airborne measurements.&lt;/p&gt;
 
-&lt;p&gt;Observational work: working on space-scale mapping of surface fluxes using airborne measurements. Wavelet analysis of flux measurements to diagnose and quantify scale transport. Flux footprint analysis to investigate contributions from surface features over the seasons.  from the experiment:
-&lt;img src=&#34;Space.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;forcings2.gif&#34; alt=&#34;Surface sensible heat flux with one design flight pattern&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Modeling work:
-Pre IOP work: Initial scenario analysis for field experiment design.
-Parallelized Atmospheric LES Model (PALM), forced by surface flux maps from Metzger et al. 2013 (reanalysis calculated from tall tower measurements using ERF)&lt;/p&gt;
+&lt;p&gt;The experimental study design aimed to sample the landscape transition from late summer to early fall and the associated ABL responses. The CHEESEHEAD19 airborne dataset presents a unique opportunity to analyse long periods of airborne EC over long legs (30 km) in a heterogeneous region over multiple times a year with differing patterns of surface sensible and latent heat fluxes.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;forcings2.gif&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In this study, we ask, how do spatial scales of surface-atmosphere fluxes vary over heterogeneous surfaces across the day and across seasons?  To get a quantitative estimate, the measured fluxes were separated into smaller-scale turbulent and larger-scale mesoscale contributions. We found significant mesoscale contributions to sensible and latent heat fluxes through summer to autumn which wouldn’t be resolved in single point tower measurements through traditional time-domain half-hourly Reynolds decomposition.
+&lt;img src=&#34;seasonal_fluxes.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To investigate how the measured mesoscale contributions vary over the course of a research flight and spatially over the domain, the measured fluxes are back–projected to their surface source as gridded two-dimensional data following the flux topography method of Mauder, Desjardins, and MacPherson (2008). Flux topographies are the footprint-weighted flux contributions measured across the domain from the airborne data (Amiro, 1998).
+&lt;img src=&#34;LE_flux_topo.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A manuscript detailing the findings is currently under review at JGR-Atmospheres where we also report scale-resolved flux transitions associated with seasonal and diurnal changes of the heterogeneous study domain and how they are affected by ABL stability.&lt;/p&gt;
 </description>
     </item>
     
