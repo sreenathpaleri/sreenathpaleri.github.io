@@ -23,7 +23,7 @@
     <item>
       <title>Large Eddy Simulations of surface heterogeneity induced secondary circulations</title>
       <link>/research/cheesehead-palm/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/research/cheesehead-palm/</guid>
       <description>&lt;p&gt;Numerous studies have hinted at the key role of land surface heterogeneities for developing
 secondary circulations in the atmospheric boundary layer. Observational studies and large
@@ -40,16 +40,17 @@ capture these events and robustly test hypotheses.&lt;/p&gt;
 
 &lt;p&gt;We setup simulations for two days in the summer ( Aug. 22 and 23 2019) and two days in the fall(Sep. 24 and 25 2019), with land use classes, soil and vegetation data as measured/observed during the field experiment. Since the modeling domain is forested, the observed tree tops are being resolved using the inbuilt PCM in PALM. The forest canopy is initialized using observed parameters from canopy LiDAR measurements (Andresen et al. 2019) and field observations.&lt;/p&gt;
 
+&lt;p&gt;A manuscript detailing the model setup and validation is currently under review in Geoscientific Model Development.&lt;/p&gt;
+
 &lt;p&gt;In this study, we ask whether diagnosing these circulations and quantifying the transport occurring at their corresponding scales can help us observe all the relevant scales of surface atmospheric transport. We use the LES model PALM to simulate diurnal cycles for the chosen four days chosen from late summer to early fall over a large (27x30 km) heterogeneous study domain that was the field site for CHEESEHEAD19. The simulations were initialized using NOAA - HRRR as large-scale forcing data over the study domain. Our preliminary analysis shows a good match between the simulated and radiosonde measured profiles. Sample comparison plots for summer runs below&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;profiles-palm-iop02.JPG&#34; alt=&#34;profiles-palm-iop02&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Currently I am working on extracting signals of secondary circulations induced due to the surface heterogeneities using time and ensemble averaging following Maronga and Raasch (2013). The dynamical nature of the structures will be  compared between the summer and autumn
-simulations, showing differing atmospheric boundary layer stabilities. The impact of these
-secondary circulations on local turbulent fluxes and simulated surface energy balance will also
-be investigated. I am hoping to present this work at AGU Fall meeting 2022 in Chicago. Let me know if you&amp;rsquo;d like to meet up and talk more !&lt;/p&gt;
+&lt;p&gt;Signals of secondary circulations induced due to the surface heterogeneities were diagnosed using time and ensemble averaging following Maronga and Raasch (2013). Below you can see a short animation of 3D iso-surfaces of surface heterogeneity induced vertical wind during the free convective, August case study day.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;w-iop02-30min.JPG&#34; alt=&#34;w-iop02-30min&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;w_hi_3d_iop02_day2.gif&#34; alt=&#34;w_hi_3d_iop02_day2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A manuscript detailing the contributions from these circulations to total surface heat fluxes and an analysis of their length scales is currently under review in Boundary Layer Meteorology.&lt;/p&gt;
 </description>
     </item>
     

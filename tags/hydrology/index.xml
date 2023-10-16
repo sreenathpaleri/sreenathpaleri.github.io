@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hydrology | Sreenath Paleri</title>
+    <link>/tags/hydrology/</link>
+      <atom:link href="/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hydrology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Hydrology</title>
+      <link>/tags/hydrology/</link>
+    </image>
+    
+    <item>
+      <title>Measurements and parameterizations of surface energy budget over complex terrain</title>
+      <link>/research/noaa-splash/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/research/noaa-splash/</guid>
+      <description>&lt;p&gt;Multi-scale heterogeneities  arising from terrain-induced and land surface variabilities  present in complex watersheds require accurate measurements and models of surface-atmospheric exchanges and watershed dynamics. The spatial and temporal variability of energy and water budgets over the complex terrain can influence hydrological and biogeochemical interactions that can strongly affect groundwater recharge and downstream water quality within the watershed as well as influence local and regional biosphere-atmosphere transport.&lt;/p&gt;
+
+&lt;p&gt;Scaling and accurate model representations of these interactions across complex terrains based on single-point or local measurements present a non-trivial scientific challenge.
+Observations were made of surface energy balance components at NOAA surface flux and mobile SURFRAD radiation stations separated by 5 kilometers along the East River, Colorado, Watershed as part of the &lt;a href=&#34;https://psl.noaa.gov/splash/&#34; target=&#34;_blank&#34;&gt;SPLASH&lt;/a&gt; field campaign.&lt;/p&gt;
+
+&lt;p&gt;I am working on the gap-filled diurnal and seasonal evolution of surface energy balance components as the study domain transitions from low to high snow cover to study the spatial variability of the measured fluxes along the valley axis, with focus on the possible influences of local advection and thermally driven circulations.&lt;/p&gt;
+
+&lt;p&gt;The measured fluxes are being compared with a new bulk Richardson number parameterization for heat fluxes over heterogeneous land surfaces, introduced in &lt;a href=&#34;https://doi.org/10.1175/MWR-D-21-0047.1&#34; target=&#34;_blank&#34;&gt;Lee et al. 2021&lt;/a&gt;, here extended for complex topography. Our findings provide credence for implementing such a parameterization for surface fluxes and turbulence statistics for model representations of surface-atmospheric exchanges in operational NWP and data products. I am hoping to present this work in the AGU 2023 Fall Meeting. If you are interested and would like to talk more please feel free to contact me!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
